@@ -1,0 +1,16 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+nltk
+scikit-learn
+python-docx
+datetime
+nltk
+openai
+dotenv
+transformers
+torch
+google-generativeai 
